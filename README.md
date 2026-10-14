@@ -1,13 +1,74 @@
-<h1 align="center">Hi 👋, I'm Lauryn</h1>
-<h3 align="center">A developer passionate about cybersecurity and games</h3>
+# 🕵️‍♀️ Hello, I'm Lauryn Hecque--Nascimento ! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lauryn hecque nascimento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauryn hecque nascimento" height="30" width="40" /></a>
-<a href="https://fb.com/lauryn hecque nascimento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lauryn hecque nascimento" height="30" width="40" /></a>
-<a href="https://discord.gg/Lauryn#9082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lauryn#9082" height="30" width="40" /></a>
-</p>
+**Analyste OSINT & Threat Intelligence | Blue Team | Infrastructure Sécurité**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+Traquer les menaces, analyser les données ouvertes (OSINT/SOCMINT) et comprendre les TTPs offensifs pour mieux défendre les infrastructures : c'est ce qui m'anime. Actuellement Administratrice Sécurité, Systèmes & Réseaux en alternance chez **Hartwood**, j'allie rigueur technique et esprit d'investigation.
 
+[🌐 Découvrez mes Write-Ups & Projets sur ZeroDayGhost](https://lauryn-bot.github.io/zerodayghost/)
+
+---
+
+### 🎯 En ce moment
+- 🎓 **Études :** 2ème année de BTS SIO SISR.
+- 💼 **Poste :** Administratrice Sécurité, Systèmes & Réseaux @Hartwood.
+- ⚔️ **Training :** Entraînement quotidien sur TryHackMe & développement d'outils OSINT en Python.
+- 🛡️ **Défense :** Forte d'une Préparation Militaire au 28e Régiment de Transmissions (Issoire). Sens aigu de l'OPSEC.
+
+---
+
+### 🏆 Compétitions & CTF (Capture The Flag)
+J'aime confronter mes compétences à des scénarios réels, souvent en lien avec les institutions de la Défense :
+- 🥇 **CTF Bpifrance (Opération Culot) :** `8e place en Finale à l'Accor Arena` | `10e/655 en ligne` | `7e/655 Speedrun`
+- 🎯 **CTF DGA (Deep Threats) :** `184e / 491 équipes`
+- ⚓ **CTF ORION 2026 :** Organisé par la Marine Nationale (aux Invalides)
+- 🌐 **TryHackMe :** `Top 5% World`
+- 🚩 **Autres participations :** CTF CyberSup 2026
+
+---
+
+### 🛠️ Stack Technique & Compétences
+
+**Investigation & Cybersécurité**  
+![OSINT](https://img.shields.io/badge/-OSINT-000000?style=flat&logo=tor&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/-Threat_Intelligence-1E1E1E?style=flat)
+![Blue Team](https://img.shields.io/badge/-Blue_Team-0052CC?style=flat)
+![Forensics](https://img.shields.io/badge/-Forensics-4B0082?style=flat)
+![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
+
+**Développement & Scripting (Création d'outils)**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Systèmes, Réseaux & Cloud**  
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux Debian](https://img.shields.io/badge/-Linux_Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Fortinet](https://img.shields.io/badge/-Fortinet-C41230?style=flat&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco_IPsec/HSRP-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
+
+### 📜 Certifications & Rigueur Académique
+- **Sécurité & Investigation :** Security Blue Team, Certifiée ICAR & OSINT-FR.
+- **Cloud & Gouvernance :** Microsoft (AZ-900, SC-900, MS-900, Applied Skills), RGPD (CNIL).
+- **Esprit Analytique :** Certifiée Univ. of London, Stanford & CU Boulder (Mathématiques / Cryptographie).
+
+---
+
+### 🌍 Langues (Atouts pour l'investigation internationale)
+- 🇫🇷 **Français :** Maternel
+- 🇬🇧 **Anglais :** C1
+- 🇪🇸 **Espagnol :** B1
+- 🇸🇾/🇱🇧 **Arabe Levantin :** A2 *(Atout OSINT)*
+- 🇵🇹/🇧🇷 **Portugais :** A2 *(Atout OSINT)*
+- 🏛️ **Latin & Grec ancien :** 6 ans *(Rigueur de traduction et d'analyse)*
+
+---
+
+### 📫 Me contacter
+- **LinkedIn :** [Lauryn Hecque--Nascimento](https://www.linkedin.com/) *(N'oublie pas de mettre ton lien LinkedIn ici)*
+- **Email :** `hecquelauryn [at] gmail.com`
+- **Localisation :** Paris (75014) & Île-de-France
+
+> *"Dépassement de soi au clavier comme dans le sport (Volley-ball 9 ans, Triathlon, Escalade)."* 🏔️
