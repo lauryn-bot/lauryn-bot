@@ -1,5 +1,3 @@
-# 🕵️‍♀️ Hello, I'm Lauryn Hecque--Nascimento ! 👋
-
 **Analyste OSINT & Threat Intelligence | Blue Team | Infrastructure Sécurité**
 
 Traquer les menaces, analyser les données ouvertes (OSINT/SOCMINT) et comprendre les TTPs offensifs pour mieux défendre les infrastructures : c'est ce qui m'anime. Actuellement Administratrice Sécurité, Systèmes & Réseaux en alternance chez **Hartwood**, j'allie rigueur technique et esprit d'investigation.
