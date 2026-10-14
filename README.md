@@ -18,11 +18,11 @@ Traquer les menaces, analyser les données ouvertes (OSINT/SOCMINT) et comprendr
 
 ### 🏆 Compétitions & CTF (Capture The Flag)
 J'aime confronter mes compétences à des scénarios réels, souvent en lien avec les institutions de la Défense :
-- 🥇 **CTF Bpifrance (Opération Culot) :** `8e place en Finale à l'Accor Arena` | `10e/655 en ligne` | `7e/655 Speedrun`
+- 🥇 **CTF Bpifrance (Opération Culot) :** `8e place en Finale à l'Accor Arena` | `10e/655 équipes en ligne` | `7e/655 équipes Speedrun`
 - 🎯 **CTF DGA (Deep Threats) :** `184e / 491 équipes`
-- ⚓ **CTF ORION 2026 :** Organisé par la Marine Nationale (aux Invalides)
+- ⚓ **CTF ORION 2026 :** Organisé par la Marine Nationale aux Invalides
 - 🌐 **TryHackMe :** `Top 5% World`
-- 🚩 **Autres participations :** CTF CyberSup 2026
+- 🚩 **Autres participations :** CTF CyberSup 2026 à Puteaux
 
 ---
 
