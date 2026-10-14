@@ -67,8 +67,8 @@ J'aime confronter mes compétences à des scénarios réels, souvent en lien ave
 ---
 
 ### 📫 Me contacter
-- **LinkedIn :** [Lauryn Hecque--Nascimento](https://www.linkedin.com/) *(N'oublie pas de mettre ton lien LinkedIn ici)*
+- **LinkedIn :** [Lauryn Hecque--Nascimento](www.linkedin.com/in/lauryn-hecque-nascimento) 
 - **Email :** `hecquelauryn [at] gmail.com`
 - **Localisation :** Paris (75014) & Île-de-France
 
-> *"Dépassement de soi au clavier comme dans le sport (Volley-ball 9 ans, Triathlon, Escalade)."* 🏔️
+> *"Dépassement de soi au clavier comme dans le sport (Volley-ball 9 ans, Triathlon, Course à pied, Natation)."* 🏔️
